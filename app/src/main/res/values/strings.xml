@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Victorina</string>
+    <string name="btn_correct">Верно</string>
+    <string name="btn_incorrect">Не верно</string>
+    <string name="btn_next">Следующий вопрос</string>
+
+    <string name="question_1">Земля круглая?</string>
+    <string name="question_2">Гагарин был первым из живых существ, кто отправился в космос?</string>
+    <string name="question_3">Правда ли, что Сергей Брин основатель Google?</string>
+    <string name="question_4">Правда ли, что существуют рыбы, умеющие летать?</string>
+    <string name="question_5">Самый опасный город в мире находится в Африке?</string>
+</resources>
